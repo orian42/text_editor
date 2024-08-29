@@ -32,11 +32,14 @@ The application has been deployed on render.com and can be utilized online at ht
 
 The application can also be installed as a progressive web application.  Once the user is on the site mentioned above, the user can click the "install!" button to install the application to their computer's desktop.
   
+![Screenshot of installed app](assets/screenshot.png)
 
 ## Usage
   
 
 This application is a simple text editor.  Once the application is loaded, the user can type whatever they want to the screen.  The text will be saved and available for use the next time the user opens the application.  The user need not be connected to the internet to be able to utilize this application.
+
+
   
 
 ## License
